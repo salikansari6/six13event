@@ -11,8 +11,13 @@ const Header = () => {
       />
       <div className="landing flex flex-col justify-center items-center">
         <img
+          src="/images/project.png"
+          className="mt-10 w-1/6 mb-3 lg:mb-6 lg:mt-0"
+          alt=""
+        />
+        <img
           src="/images/Six1Three@1X.png"
-          className="mt-10 w-1/2 lg:w-3/4 lg:mt-0"
+          className="w-1/2 lg:w-3/4 lg:mt-0"
           alt=""
         />
         <img
